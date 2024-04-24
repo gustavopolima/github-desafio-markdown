@@ -15,3 +15,5 @@ ________________________________________
         - Merge [V]
     
     - Collab [V]
+_______________________________________
+No problem was solved, just used a simple Stack example to try.
