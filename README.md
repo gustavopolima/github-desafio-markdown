@@ -1,8 +1,7 @@
-# PRÁTICA: Aplicações e atividades de Git e Github
+# PRACTICING: Management and tools for Git and Github
 
-- Treinar colaboração
-- Segurança
-- Markdown
-
+- Colaboration
+- Markdown language
+- Safety
 ________________________________________
 
